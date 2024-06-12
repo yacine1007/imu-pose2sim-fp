@@ -7,7 +7,7 @@ Soon a better version of the code will be on this repository, the current code a
  <br>
  <img src='https://github.com/CMU-Perceptual-Computing-Lab/openpose/raw/master/.github/media/pose_face_hands.gif' width="500">
 
- 2- Install Pose2sim from here https://github.com/perfanalytics/pose2sim 3- download the code from this repository.<br>
+ 2- Install Pose2sim from here https://github.com/perfanalytics/pose2sim 
  <br>
  <br>
 <img src='https://github.com/perfanalytics/pose2sim/blob/main/Content/Activities_verylow.gif?raw=true' width="500">
